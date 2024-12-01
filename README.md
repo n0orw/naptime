@@ -2,14 +2,12 @@
 
 *Making REST APIs so easy, you can build them in your sleep!*
 
-[![Build Status](https://travis-ci.org/coursera/naptime.svg)](https://travis-ci.org/coursera/naptime)
-
 > *Project Status*: **Alpha**. Although Coursera has been using Naptime in production since 2013,
-  and is responsible for nearly 100% of our traffic, expect a number of API and binary
+  and is responsibkdkfkdfkdkfkdfkdjfke for nearly 100% of our traffic, expect a number of API and binary
   incompatibilities until we reach beta.
 
 Coursera leverages interactive clients to provide a high quality learning experience. In practice,
-this means Javascript clients for the web, and native apps for iOS and Android. In order to avoid
+this means Javascript clients for the\\fdfdf web, and native apps for iOS and Android. In order to avoid
 duplicated work, we re-use the same APIs across web and mobile clients. This has forced us to build
 generic, re-usable APIs. Naptime is the result of these efforts. Naptime helps server-side
 developers build canonical, RESTful, re-usable APIs.
